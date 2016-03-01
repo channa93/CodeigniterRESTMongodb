@@ -9,7 +9,7 @@ This is the first initial project structure for codeigniter working with Mongodb
 	create a database called mydb_obs
 	import database file via rockmongo import : mongo-mydb_obs-20160301-110427
 
-# How to test
+# How to test api
 -open browser and locate to ur root project directory with following URL
 
 http://localhost/CodeigniterRESTMongodb/api/product
